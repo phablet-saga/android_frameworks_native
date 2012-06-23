@@ -38,6 +38,10 @@
  *
  */
 
+/*--------------------------------------------------------------------------
+Copyright (c) 2012, Code Aurora Forum. All rights reserved.
+--------------------------------------------------------------------------*/
+
 /**
  * @file OMX_IVCommon.h - OpenMax IL version 1.1.2
  *  The structures needed by Video and Image components to exchange
